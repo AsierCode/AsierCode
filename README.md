@@ -48,17 +48,11 @@
 
 
 <!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsierCode&show_icons=true&hide_border=true&theme=dark)
+![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AsierCode&show_icons=true&hide_border=true")-->
 
 <!-- repos
-<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
+<a href="https://github.com/Sumanth-Talluri/PortfolioWEB">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AsierCode&repo=PortfolioWEB&theme=dark" />
 </a>
 -->
