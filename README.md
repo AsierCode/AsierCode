@@ -4,19 +4,19 @@
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
+    user = 'Asier Code'
+	current_edu = "DAM"
+    currently_learning = "Docker"
+    fun_fact = "I hate Bugs"
 	hobbies = [
 				'Music',
-                         'Chilling',
+                         	'Books',
 			 	'Gaming',
-				'Sci-Fi Movies'
+				'Movies'
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Madrid_Spain()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
