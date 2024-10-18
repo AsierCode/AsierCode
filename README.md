@@ -59,11 +59,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
 </a>
 <a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AsierCode&repo=PortfolioWEB&theme=dark" />
 </a>
 -->
-
-<br>
 
 
 ## Connect with Me
