@@ -81,11 +81,11 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/asier-nuñez-garcia/"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Jaydeep-Yadav"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:yadavjay374@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/asier-nuñez-garcia/"><img alt="Linkedin" title="AsierCode Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/AsierCode#"><img alt="Github" title="AsierCode Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:asierngcode@gmail.com"><img alt="Gmail" title="AsierCode Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </p>
 
 ------
-[Jaydeep-Yadav](https://github.com/jaydeep-yadav)
+[Jaydeep-Yadav](https://github.com/AsierCode)
 Last Edited on - 11/10/2021
