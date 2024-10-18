@@ -12,10 +12,10 @@
     currently_learning = "Docker"
     fun_fact = "I hate Bugs"
 	hobbies = [
-				'Music',
- 			'Books',
-			 	'Gaming',
-				'Movies'
+			'Music',
+ 		'Books',
+		'Gaming',
+		'Movies'
 			]
 	
 	def getCity():
