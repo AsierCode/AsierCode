@@ -41,7 +41,7 @@
 
 ## :zap: Github Stats
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=AsierCode&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="AsierCode's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=AsierCode&show_icons=true&hide_border=true&theme=dark" alt="AsierCode's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=AsierCode&show_icons=true&hide_border=true&theme=dark" width="37%" alt="AsierCode's Top Languages">
 
