@@ -27,12 +27,12 @@
 ## Software and Tools
 <!-- LANGUAGES AND TOOLS -->
 <p align="center"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" width="40" height="40"/> </a>
-	  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="40" height="40"/> </a>  	
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="docker" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="40" height="40"/>
 </p>  
 
 ## Connect with Me
