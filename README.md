@@ -14,8 +14,8 @@
 	hobbies = [
 			'Music',
  		'Books',
-		'Gaming',
-		'Movies'
+			'Gaming',
+			'Movies'
 			]
 	
 	def getCity():
