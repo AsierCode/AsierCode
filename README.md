@@ -1,4 +1,7 @@
-![Github Banner](https://github.com/AsierCode/AsierCode/blob/main/gato.gif)
+<p align="center">
+  <img src="https://github.com/AsierCode/AsierCode/blob/main/gato.gif" alt="Github Banner">
+</p>
+
 
 ## Who am I?
 
