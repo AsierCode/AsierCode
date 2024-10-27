@@ -1,4 +1,5 @@
-## 				Asier Nuñez Garcia | Developer
+<h1 align="center">Asier Nuñez Garcia | Developer</h1>
+## 
 
 <p align="center">
   <img src="https://github.com/AsierCode/AsierCode/blob/main/gato.gif" alt="Github Banner">
