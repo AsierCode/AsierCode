@@ -1,8 +1,10 @@
+		Asier
+
 <p align="center">
   <img src="https://github.com/AsierCode/AsierCode/blob/main/gato.gif" alt="Github Banner">
 </p>
 
-## Bio
+## Full-Stack Developer | Problem Solver
 
 <p align="center">💻 Developer focused on efficient problem-solving | Skilled in Java, Python, JavaScript, SQL, HTML, CSS, Windows, Linux | Passionate about learning and creating innovative solutions 📚
 
