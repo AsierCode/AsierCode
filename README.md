@@ -1,5 +1,4 @@
 <h1 align="center">Asier Nuñez Garcia | Developer</h1>
-## 
 
 <p align="center">
   <img src="https://github.com/AsierCode/AsierCode/blob/main/gato.gif" alt="Github Banner">
@@ -7,9 +6,9 @@
 
 ## Full-Stack Developer | Problem Solver
 
-<p align="center">💻 Developer focused on efficient problem-solving | Skilled in Java, Python, JavaScript, SQL, HTML, CSS, Windows, Linux | Passionate about learning and creating innovative solutions 📚
+<p align="center">💻 Developer focused on efficient problem-solving | Skilled in Java, Python, JavaScript, SQL, HTML, CSS, Windows, Linux | Passionate about learning and creating innovative solutions 📚</p>
 
-🌐 Web Development & Cross-Platform Solutions | Experienced in agile environments and process optimization for high-quality results ⚙️. Ready to drive success in your projects 🚀</p>
+<p align="center">🌐 Web Development & Cross-Platform Solutions | Experienced in agile environments and process optimization for high-quality results ⚙️. Ready to drive success in your projects 🚀</p>
 
 
 ## Who am I?
@@ -45,6 +44,10 @@
   <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="docker" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000" width="40" height="40"/>
+
 </p>  
 
 
