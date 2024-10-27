@@ -28,6 +28,9 @@
 	
 	def getCity():
 		return Madrid_Spain()
+
+	def getAge():
+		return 19()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
