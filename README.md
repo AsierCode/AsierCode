@@ -3,11 +3,16 @@
 </p>
 
 
+<p align="center">💻 Developer focused on efficient problem-solving | Skilled in Java, Python, JavaScript, SQL, HTML, CSS, Windows, Linux | Passionate about learning and creating innovative solutions 📚
+
+🌐 Web Development & Cross-Platform Solutions | Experienced in agile environments and process optimization for high-quality results ⚙️. Ready to drive success in your projects 🚀</p>
+
+
 ## Who am I?
 
  ```python
   class WhoAmI:
-    user = 'Asier Code'
+    user = 'AsierCode'
 	current_edu = "DAM"
     currently_learning = "Docker"
     fun_fact = "I hate Bugs"
